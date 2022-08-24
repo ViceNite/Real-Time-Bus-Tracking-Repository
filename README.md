@@ -29,7 +29,7 @@
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
   <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
-  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
+  <a href="#rocket-Roadmap">Roadmap</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
@@ -39,24 +39,22 @@
 <br>
 
 ## :dart: About ##
-Este programa usa datos del MBTA para determinar las paradas entre Harvard y MIT
+This program uses data from MBTA to accurately depict the bus stops between the University of Harvard and MIT in the city of Boston. 
 
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Mapa estatico de Boston
-:heavy_check_mark: Marcador azul mostrando las paradas del bus
-:heavy_check_mark: Boton interactivo que ayuda a navegar el orden de las paradas
+:heavy_check_mark: Contains Map of Boston
+:heavy_check_mark: Blue marker showcasing the bus stops 
+:heavy_check_mark: Interactive button that helps advancing through the bus stops
 
-## :rocket: Technologies ##
+## :rocket: Roadmap ##
 
-The following tools were used in this project:
+:heavy_check_mark: include a function that allows users to move backwards throught the bus stops
+:heavy_check_mark: add the time when the next bus will be available at every stop
+:heavy_check_mark: Include routes to other Universities in Boston
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+
 
 ## :white_check_mark: Requirements ##
 
@@ -85,7 +83,7 @@ $ yarn start
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/ViceNite" target="_blank">{{YOUR_NAME}}</a>
+Made with :heart: by <a href="https://github.com/ViceNite" target="_blank">Moises</a>
 
 &#xa0;
 
