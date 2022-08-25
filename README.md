@@ -70,10 +70,10 @@ $ git clone https://github.com/ViceNite/real-time-bus-tracking-repository
 $ cd real-time-bus-tracking-repository
 
 # Install dependencies
-$ yarn
+$ No dependencies required
 
 # Run the project
-$ yarn start
+$ Open project with the live server extension
 
 # The server will initialize in the <http://localhost:3000>
 ```
